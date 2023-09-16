@@ -1,16 +1,5 @@
-# ostad_my_app
+# Module-6 (Live Test-6)
 
-A new Flutter project.
+## screenshots of the whole app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![liveTest](https://github.com/kamruzzaman-aman/Live_Test_6/assets/17810615/1e9ba304-ba19-4dfe-aa8c-2041993eb086)
